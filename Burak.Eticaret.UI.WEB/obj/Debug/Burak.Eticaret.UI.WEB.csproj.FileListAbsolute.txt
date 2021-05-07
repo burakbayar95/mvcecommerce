@@ -1,0 +1,333 @@
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll.config
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.pdb
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe.config
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.rsp
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe.config
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.rsp
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Console.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe.config
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.rsp
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csproj.CopyComplete
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.pdb
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.pdb
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll.config
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll.config
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.pdb
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe.config
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.rsp
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe.config
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.rsp
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.AppContext.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Console.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Claims.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe.config
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.rsp
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.pdb
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll.config
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Razor.resources.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csproj.CopyComplete
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.pdb
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll.config
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.pdb
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe.config
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.rsp
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe.config
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.rsp
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.AppContext.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Collections.Immutable.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Console.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Compression.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.ValueTuple.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe.config
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.rsp
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe.config
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.Web.Infrastructure.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Deployment.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Razor.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.pdb
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll.config
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Deployment.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Webpages.Razor.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Razor.resources.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.resources.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.Deployment.resources.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Webpages.Razor.resources.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Helpers.resources.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Mvc.resources.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csprojAssemblyReference.cache
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csproj.CopyComplete
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.pdb
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Globalization.Calendars.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Net.Http.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Net.Sockets.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll.config
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.UI.WEB.pdb
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.exe.config
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csc.rsp
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.exe.config
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\csi.rsp
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.AppContext.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Collections.Immutable.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Console.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Globalization.Calendars.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Compression.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Net.Http.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Net.Sockets.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.ValueTuple.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.exe.config
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\vbc.rsp
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\roslyn\VBCSCompiler.exe.config
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.Web.Infrastructure.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.WebPages.Deployment.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.WebPages.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.WebPages.Razor.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.pdb
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Burak.Eticaret.Core.Model.dll.config
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\EntityFramework.SqlServer.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Helpers.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Mvc.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.Razor.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.WebPages.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.WebPages.Deployment.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\System.Web.WebPages.Razor.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Helpers.resources.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Mvc.resources.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.Razor.resources.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.WebPages.resources.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.WebPages.Deployment.resources.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\bin\tr\System.Web.WebPages.Razor.resources.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csprojAssemblyReference.cache
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csproj.CoreCompileInputs.cache
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.csproj.CopyComplete
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.UI.WEB\obj\Debug\Burak.Eticaret.UI.WEB.pdb

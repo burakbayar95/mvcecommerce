@@ -1,0 +1,47 @@
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll.config
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.pdb
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csproj.CopyComplete
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.dll
+C:\Users\Burak\source\repos\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.pdb
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll.config
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.pdb
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csprojAssemblyReference.cache
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csproj.CopyComplete
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.dll
+C:\Users\Burak\Desktop\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.pdb
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll.config
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.pdb
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csproj.CopyComplete
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.dll
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.pdb
+E:\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csprojAssemblyReference.cache
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll.config
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\Burak.Eticaret.Core.Model.pdb
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csprojAssemblyReference.cache
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csproj.CoreCompileInputs.cache
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.csproj.CopyComplete
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.dll
+E:\Geçmiş\BİTİRME ÇALIŞMASI\Burak.Eticaret\Burak.Eticaret.Core.Model\obj\Debug\Burak.Eticaret.Core.Model.pdb

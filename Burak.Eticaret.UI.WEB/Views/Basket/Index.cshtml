@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Burak.Eticaret.Core.Model.Entity.Basket>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Ürün
+        </th>
+
+        <th>
+            Adet
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>
+                Ürün
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Name)
+            </td>
+            <th>
+                Adet
+            </th>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <th>
+                Ürün Fiyatı
+            </th>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Price)
+            </td>
+
+            <th>
+                Ürün Modeli
+            </th>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Model)
+            </td>
+
+            <th>
+                Ürün Vergisi
+            </th>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Tax)
+            </td>
+
+
+            <th>
+                Ürün İndirimi
+            </th>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Discount)
+            </td>
+            <th>
+
+            </th>
+
+            <td>
+
+                <img src="@Html.DisplayFor(modelItem => item.Product.ImageUrl)"><img />
+            </td>
+
+            <td>
+                @Html.ActionLink("Sil", "Delete", new { id = item.ID })
+
+            </td>
+        </tr>
+    }
+
+</table>
+<a href="/siparisver" class="btn btn-primary"><i class="far fa-credit-card"></i>     -  -    Satın Al</a>
+

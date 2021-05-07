@@ -1,0 +1,114 @@
+﻿@model Burak.Eticaret.Core.Model.Entity.Order
+@{
+                /**/
+
+                ViewBag.Title = "Sipariş Detayı";
+}
+<br />
+<br />
+<h2>@Model.ID Nolu Siparişinizin Durumu:"@Model.Status.Name"</h2>
+
+<hr />
+
+<b>Banka Bilgileri</b>
+
+<table>
+    <tr>
+        <td>  Banka  </td>
+        <td>  Banka İsmi  </td>
+    </tr>
+
+    <tr>
+        <td>  IBAN  </td>
+        <td>  TR </td>
+    </tr>
+
+    <tr>
+        <td>  Alıcı Adı  </td>
+        <td>  Firma Bilgileri </td>
+    </tr>
+
+
+</table>
+@{
+    if (Model.StatusID == 6)//durum ödeme bekleniyor ise buton çıkacak
+    {
+        <a href="/order/pay?id=@Model.ID" class=" btn btn-success">Ödeme Yaptım</a>
+
+    }
+}
+<hr />
+
+<b>Sipariş Bilgileri</b>
+
+<table>
+
+    <tr>
+        <td>  Ürünler Toplamı  </td>
+        <td>  @Model.TotalProductPrice.ToString("##,##  ₺")  </td>
+    </tr>
+
+    <tr>
+        <td>  Vergi Toplamı  </td>
+        <td>  @Model.TotalTaxPrice.ToString("##,##  ₺")  </td>
+
+    </tr>
+
+    <tr>
+        <td>  İndirim Toplamı  </td>
+        <td>  @Model.TotalDiscount.ToString("##,##  ₺")  </td>
+
+    </tr>
+
+
+    <tr>
+        <td>  Toplam  </td>
+        <td>  @Model.TotalPrice.ToString("##,##  ₺")  </td>
+    </tr>
+
+
+
+
+</table>
+
+
+
+<b>Ürünler</b>
+
+<table>
+  
+
+    
+
+    @{
+        foreach (var item in Model.OrderProducts)
+        {
+
+
+            var p = new Burak.Eticaret.Core.Model.BurakDB().Products.Where(x => x.ID == item.ProductID).FirstOrDefault();
+
+            var k = p.Price;
+            var vergi = (k * p.Tax) / 100;
+            var toplamm = (k + vergi) - p.Discount;
+
+    <tr>
+
+        <th>Ürün   :  </th>
+        <td>@p.Name</td>
+
+        <th>Adet   :  </th>
+        <td>@item.Quantity</td>
+
+        <th>Fiyat   :  </th>
+        <td>@k.ToString("##,##  ₺") </td>
+
+       
+
+
+    </tr>
+        }
+    }
+</table>
+
+
+

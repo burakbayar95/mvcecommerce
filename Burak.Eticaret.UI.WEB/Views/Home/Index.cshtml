@@ -1,0 +1,144 @@
+﻿@model List<Burak.Eticaret.Core.Model.Entity.Product>
+@{
+    ViewBag.Title = "Index";
+    var isLogin = (bool)ViewBag.IsLogin;
+}
+<br />
+<br />
+<h2></h2>
+<br/>
+
+
+@{ 
+    var data = Model.OrderByDescending(x => x.Price).Take(10).ToList();
+    var y = Model;
+    var yenideger = data;
+
+
+}
+
+
+<h3>Son 10 Ürün</h3>
+@{ 
+    foreach (var item in y)
+    {
+
+<div class="productBox">
+
+    <p class="title">
+        @item.Name
+
+    </p>
+    <img class="aw-zoom" src="@item.ImageUrl" />
+    <p>
+        @item.Description
+    </p>
+
+    <p>
+        @item.Price.ToString("##,## ₺")
+    </p>
+    <a href="/urun/@item.Name.Replace(" ","-")/@item.ID" class="btn btn-success">İncele</a>
+    @{
+        if (isLogin)//giriş yapılmış ise buton gelsin
+        {
+
+            <a href="#" data-pID="@item.ID" class="btn btn-default addBasket"><i class="fas fa-shopping-basket"></i>Sepete At</a>
+
+        }
+    }
+
+
+</div>
+    }
+}
+<div id="BurakModal" title="Teşekkürler">
+     Ürürünüz Sepete Atılmıştır <br/>
+
+    <a href="/sepetim" class="btn btn-success ">Sepeti Gör</a>
+
+     </div>
+
+<style>
+    .productBox
+   {
+        width:200px;
+        float: left;
+        margin:10px;
+        border:2px solid #784521;
+        padding:10px;/*iç boşluk*/
+        text-align:center;
+
+
+    }
+    .productBox img
+    {
+        width:100%;
+    }
+    .productBox .title{
+        font-weight:bold;
+    }
+    
+    .productBox p{ /*tüm p ler kontrolü*/
+        text-align:center;
+    }
+</style>
+
+@section script{
+<script type="text/javascript">    
+
+    $(function () {
+        $("#BurakModal").dialog({
+            autoOpen: false,
+            show: {
+                effect: "blind",
+                duration: 1000
+            },
+            hide: {
+                effect: "explode",
+                duration: 1000
+            }
+        });
+
+        $(".addBasket").on("click", function () {
+            
+            var pid = $(this).attr("data-pID");//tıklanan
+            $.post("/basket/AddProduct?productID=" + pid + "&quantity=1", function (data) {
+                $("#BurakModal").dialog("open");
+
+
+            });
+                
+
+            
+            return false;
+        });
+    });
+
+    </script>
+    
+    
+    }
+
+
+<style>
+
+
+    .aw-zoom {
+        position: relative;
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        -moz-transform: scale(1);
+        transition: all .3s ease-in;
+        -moz-transition: all .3s ease-in;
+        -webkit-transition: all .3s ease-in;
+        -ms-transition: all .3s ease-in;
+    }
+
+        .aw-zoom:hover {
+            z-index: 2;
+            -webkit-transform: scale(1.5);
+            -ms-transform: scale(1.5);
+            -moz-transform: scale(1.5);
+            transform: scale(1.5);
+        }
+</style>

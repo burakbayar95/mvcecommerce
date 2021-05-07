@@ -1,0 +1,309 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> B+B</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/v4-shims.css">
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .mynav_navbar {
+            overflow: hidden;
+            background-color: #333;
+        }
+
+            .mynav_navbar a {
+                float: left;
+                font-size: 16px;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+        .mynav_dropdown {
+            float: left;
+            overflow: hidden;
+        }
+
+            .mynav_dropdown .mynav_dropbtn {
+                font-size: 16px;
+                border: none;
+                outline: none;
+                color: white;
+                padding: 14px 16px;
+                background-color: inherit;
+                font-family: inherit;
+                margin: 0;
+            }
+
+            .mynav_navbar a:hover, .mynav_dropdown:hover .mynav_dropbtn {
+                background-color: red;
+            }
+
+        .mynav_dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .mynav_dropdown-content a {
+                float: none;
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+                text-align: left;
+            }
+
+                .mynav_dropdown-content a:hover {
+                    background-color: #ddd;
+                }
+
+        .mynav_dropdown:hover .mynav_dropdown-content {
+            display: block;
+        }
+    </style>
+
+
+   
+
+</head>
+<body>
+
+
+
+   
+
+
+
+
+
+
+    <div class="navbar navbar-inverse navbar-fixed-top" content="width=device-width">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"> </span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/"> <img width="100px" src="http://pngimg.com/uploads/eagle/eagle_PNG1227.png" style="float:left" /></a>
+                @Html.ActionLink("B+B", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+
+
+                <div class="navbar-collapse collapse" style="float:right">
+                    <ul class="nav navbar-nav"></ul>
+                   
+                    <div class="mynav_navbar">
+                        <div class="mynav_dropdown" content="width=device-width">
+                            <button class="mynav_dropbtn">
+                                <div>Bilgisayar</div>
+                                <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="mynav_dropdown-content">
+                                <a href="/kategori/Notebook/1">Notebook</a>
+                                <a href="/kategori/Masaüstü-Bilgisayar/3">Masaüstü Bilgisayar</a>
+                                <a href="/kategori/Monitörler/4">Monitörler</a>
+                            </div>
+                        </div>
+
+
+
+
+                        <div class="mynav_dropdown">
+                            <button class="mynav_dropbtn">
+                                <div> Telefon</div>
+
+                                <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="mynav_dropdown-content">
+                                <a href="/kategori/Cep-Telefonu/1004">Cep Telefonu</a>
+                                <a href="/kategori/Tablet/1005">Tablet</a>
+                                <a href="/kategori/Kulaklik-Mifrofon/1006">Kulaklık ve Mikrofon</a>
+                            </div>
+                        </div>
+
+
+                        <div class="mynav_dropdown">
+                            <button class="mynav_dropbtn">
+                                <div>Tv-Ev Elek.</div>
+
+                                <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="mynav_dropdown-content">
+                                <a href="/kategori/Led-Tv/1007">LED TV</a>
+                                <a href="/kategori/Oled-TV/1008">OLED TV</a>
+                                <a href="/kategori/Projeksiyon/1009">Projeksiyon</a>
+                            </div>
+                        </div>
+
+
+                        <div class="mynav_dropdown">
+                            <button class="mynav_dropbtn">
+                                <div>Oyun-Hobi</div>
+
+                                <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="mynav_dropdown-content">
+                                <a href="/kategori/PS4/1010">PS4 Oyun Konsolu</a>
+                                <a href="/kategori/xbox/1011">XBOX</a>
+                                <a href="/kategori/oyun-kolu/1012">Oyun Kolları</a>
+                            </div>
+                        </div>
+
+
+                        <div class="mynav_dropdown">
+                            <button class="mynav_dropbtn">
+                                <div>Bilgisayar-Parça</div>
+
+                                <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="mynav_dropdown-content">
+                                <a href="/kategori/anakart/1013">Anakart</a>
+                                <a href="/kategori/islemci/1014">İşlemci</a>
+                                <a href="/kategori/ekrankarti/1015">Ekran Kartı</a>
+                            </div>
+                        </div>
+
+
+                        <div class="mynav_dropdown">
+                            <button class="mynav_dropbtn">
+                                <div>Aksesuar</div>
+
+                                <i class="fa fa-caret-down"></i>
+                            </button>
+                            <div class="mynav_dropdown-content">
+                                <a href="/kategori/mp3calar/1016">mp3 Çalar</a>
+                                <a href="/kategori/batarya/1017">Batarya</a>
+                                <a href="/kategori/3dgozluk/1018">3D Gözlük </a>
+                            </div>
+                        </div>
+
+
+                        <div class="mynav_dropdown">
+
+
+
+
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+
+                
+
+
+
+
+            </div>
+
+
+
+
+
+
+                <div style="float:right;color:white">
+                    @{
+                        if (Session["LoginUser"] == null)
+                        {
+                            <p>
+                                <a href="uye-giris" class="btn btn-primary"><i class="fas fa-sign-in-alt"></i>    Üye Giriş</a>
+                                <a href="uye-kayit" class="btn btn-default"><i class="fas fa-user-plus"></i>    Üye Kayıt</a>
+                            </p>
+
+                        }
+                        else
+                        {
+                            var usr = Session["LoginUser"] as Burak.Eticaret.Core.Model.Entity.User;
+                            //üye giriş yapılmışşsa
+                            <p>
+                                Merhaba @usr.Name @usr.LastName <br />
+                                <a href="/sepetim" class="btn btn-primary"><i class="fas fa-basketball-ball"></i>    Sepetim</a>
+                                <a href="/siparislerim" class="btn btn-primary"><i class="fas fa-cart-arrow-down"></i>    Siparişlerim</a>
+                            </p>
+
+                        }
+                    }
+                </div>
+            </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer></footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+
+    @RenderSection("script", false)
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+<style>
+
+
+    .aw-zoom {
+        position: relative;
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        -moz-transform: scale(1);
+        transition: all .3s ease-in;
+        -moz-transition: all .3s ease-in;
+        -webkit-transition: all .3s ease-in;
+        -ms-transition: all .3s ease-in;
+    }
+
+        .aw-zoom:hover {
+            z-index: 2;
+            -webkit-transform: scale(1.5);
+            -ms-transform: scale(1.5);
+            -moz-transform: scale(1.5);
+            transform: scale(1.5);
+        }
+</style>
